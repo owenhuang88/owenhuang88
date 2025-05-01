@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+- I'm a Dev Degree intern
+- 🔭 I’m currently working on the discounts team
+- 😄 Pronouns: he/him
+- 🌱 I’m currently learning about discount functions
+- 💬 Ask me about the gym or baking
+
+
 <!--
 **owenhuang88/owenhuang88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
