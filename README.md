@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! I'm Owen 👋
 
 - I'm a Dev Degree intern
 - 🔭 I’m currently working on the discounts team
